@@ -6,7 +6,7 @@ use App\Http\Controllers\Controller;
 
 class WelcomeController extends Controller
 {
-/**
+    /**
      * トップページ を表示する
      * 
      * @return \Illuminate\View\View
