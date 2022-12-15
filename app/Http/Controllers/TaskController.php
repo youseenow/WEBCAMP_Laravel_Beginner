@@ -5,7 +5,7 @@ use App\Http\Controllers\Controller;
 
 class TaskController extends Controller {
 /**
-     * トップページ を表示する
+     * ログイン後のトップページ を表示する
      * 
      * @return \Illuminate\View\View
      */
